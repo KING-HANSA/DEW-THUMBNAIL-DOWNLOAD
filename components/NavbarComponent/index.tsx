@@ -23,7 +23,7 @@ const NavbarComponent: React.FC<NavbarComponentProps> = ({}) => {
               ' and <b><u><a target="_blank" href="https://developers.google.com/youtube/terms/api-services-terms-of-service">\'YouTube API Services Terms of Service\'</a></u></b>',
             showCloseButton: true,
             focusConfirm: false,
-            confirmButtonText: '<i class="fa fa-thumbs-up"></i> Great!',
+            confirmButtonText: '<i class="fa fa-whatsapp"></i> Great!',
             confirmButtonAriaLabel: "Thumbs up, great!",
           });
         }}
