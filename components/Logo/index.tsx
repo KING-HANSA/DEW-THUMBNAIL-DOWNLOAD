@@ -22,7 +22,7 @@ const LogoComponent: React.FC<LogoComponentProps> = ({}) => {
           src={`/assets/logo/logo-text-${
             colorMode === "light" ? "light" : "dark"
           }.png`}
-          alt="Ala GARBAA Dark Logo"
+          alt="Hansa Dewmina Dark Logo"
           width={width}
           height={height}
           layout="intrinsic"
