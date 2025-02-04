@@ -11,10 +11,10 @@ const LayoutComponent: React.FC<LayoutProps> = ({ children }) => {
   return (
     <>
       <Head>
-        <title>Ala GARBAA - Learn something new today 🤩.</title>
+        <title>Thumbnail Downloader - Hansa Dewmina 🤩.</title>
         <meta
           name="description"
-          content="Create, earn, work and learn something new today. Welcome! 👋"
+          content="Download Your Thumbnais today. Welcome! 👋"
         />
 
         <link
