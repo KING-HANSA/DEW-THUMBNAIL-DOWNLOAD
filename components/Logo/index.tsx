@@ -33,7 +33,7 @@ const LogoComponent: React.FC<LogoComponentProps> = ({}) => {
         fontSize="10px"
         verticalAlign="sub"
       >
-        Beta v0.0.1
+        Hansa Dewmina
       </Text>
     </Flex>
   );
