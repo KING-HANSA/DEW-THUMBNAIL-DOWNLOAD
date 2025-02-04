@@ -4,8 +4,8 @@ import React from "react";
 
 interface LogoComponentProps {}
 
-const width = 228;
-const height = 42;
+const width = 200;
+const height = 200;
 
 const LogoComponent: React.FC<LogoComponentProps> = ({}) => {
   const { colorMode } = useColorMode();
