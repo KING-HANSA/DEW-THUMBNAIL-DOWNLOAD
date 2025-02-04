@@ -15,10 +15,10 @@ const NavbarComponent: React.FC<NavbarComponentProps> = ({}) => {
           e.preventDefault();
 
           Swal.fire({
-            title: "Disclaimer",
+            title: "shere",
             icon: "warning",
             html:
-              "This application is for educational purposes only. \nPlease follow " +
+              "Please Shere This Link And Join Group. \nPlease follow " +
               '<b><u><a target="_blank" href="https://www.youtube.com/howyoutubeworks/policies/community-guidelines/">\'YouTube Community Guidelines & Policies\'</a></b></u>\n' +
               ' and <b><u><a target="_blank" href="https://developers.google.com/youtube/terms/api-services-terms-of-service">\'YouTube API Services Terms of Service\'</a></u></b>',
             showCloseButton: true,
